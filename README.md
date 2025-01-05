@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Daniel Kelechi Omeje @Boksman-Dan
 - 👀 I’m interested in being a proficient Frontend developer, love reading and listening to music 
-- 🌱 I’m currently learning javascript and jQuery
+- 🌱 I’m currently learning React and jQuery
 - 💞️ I’m looking to collaborate with other designers to create mind-blowing projects 
 - 📫 How to reach me Email: Omejedanielkelechi@gmail.com and Wa.me/2348108785435
 - 😄 I identify as a male 
